@@ -31,16 +31,15 @@ Useful Links
 
 Resources
 ----
-[Multichain - ]()
-
-[Multichain - Savoir](https://github.com/DXMarkets/Savoir)
-
-[Multichain - ]()
-
-[Multichain - ]()
-
-[Multichain - ]()
-
-[Multichain - ]()
+- [Multichain - Home](http://www.multichain.com/)
+- [Multichain - Download & Install](http://www.multichain.com/download-install/)
+- [Multichain - Starting Guide](http://www.multichain.com/getting-started/)
+- [Multichain - Developpers Guide](http://www.multichain.com/developers/)
+- [Multichain - Starting Guide](http://www.multichain.com/developers/)
+- [Multichain - Starting Guide](http://www.multichain.com/developers/)
+- [Multichain - Savoir](https://github.com/DXMarkets/Savoir)
+- [Multichain - ]()
+- [Multichain - ]()
+- [Multichain - ]()
 
 []()
