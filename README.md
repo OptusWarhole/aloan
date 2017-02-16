@@ -16,9 +16,6 @@ This project has been made by *Marvin A.*, *Sophie N.* and *Virgile G*, three **
 
 *[Savoir](https://github.com/DXMarkets/Savoir)*
 
-**Logs**
-----
-
 
 **Resources**
 ----
