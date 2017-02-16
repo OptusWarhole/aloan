@@ -1,12 +1,17 @@
 ALOAN
 ====
 
-**ALOAN** is a platform...
+**ALOAN** is a experimental platform that allows student to check if they are eligible for student loans.
+It uses MultiChain in order to send the data without third party.
 
-[Multichain](http://www.multichain.com/)
+This project has been made by *Marvin A.*, *Sophie N.* and *Virgile G*, three **ETNA**'s students. The goal of the exercice was to use Bloch Chain and understant its
+
+**[Multichain](http://www.multichain.com/)**
 ----
 
-*Multichain* is an open source private blockchain platform, backwards compatible with bitcoin and Bitcoin Core.
+**Multichain** is an open source private blockchain platform, backwards compatible with bitcoin and Bitcoin Core.
+![Screenshot of **MultiChain's Explorer**](https://labs.kunstmaan.be/uploads/cache/image_big_png/uploads/media/56d5967860ccb/screenshot-2016-03-01-141701.png?production-14bed6c)
+
 
 Multichain créer des blockschain privées
 
@@ -16,17 +21,17 @@ Pas de smartcontrat
 
 Il permet d'avoir un business plan flexible
 
-Basé sur les protocoles BitCoin
+Basé sur les protocoles *BitCoin*
 
 *[Github](https://github.com/MultiChain)*
 
 *[Savoir](https://github.com/DXMarkets/Savoir)*
 
-Logs
+**Logs**
 ----
 
 
-Resources
+**Resources**
 ----
 
 **[Multichain - Home](http://www.multichain.com/)**
