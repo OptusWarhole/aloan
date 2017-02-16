@@ -12,17 +12,6 @@ This project has been made by *Marvin A.*, *Sophie N.* and *Virgile G*, three **
 **Multichain** is an open source private blockchain platform, backwards compatible with bitcoin and Bitcoin Core.
 ![Screenshot of **MultiChain's Explorer**](https://labs.kunstmaan.be/uploads/cache/image_big_png/uploads/media/56d5967860ccb/screenshot-2016-03-01-141701.png?production-14bed6c)
 
-
-Multichain créer des blockschain privées
-
-Transactions de valeurs ou signature électronique
-
-Pas de smartcontrat
-
-Il permet d'avoir un business plan flexible
-
-Basé sur les protocoles *BitCoin*
-
 *[Github](https://github.com/MultiChain)*
 
 *[Savoir](https://github.com/DXMarkets/Savoir)*
