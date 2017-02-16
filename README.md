@@ -35,6 +35,6 @@ Resources
 - [Multichain - Developpers Guide](http://www.multichain.com/developers/)
 - [Multichain - Explorer](https://github.com/MultiChain/multichain-explorer)
 - [Multichain - Savoir](https://github.com/DXMarkets/Savoir) 
-> Savoir is JsonRPC wrapper for Multichain Its heavy based on python-bitcoinrpc but adapted for Multichain server, and replacing the httplib by requests
+`Savoir is JsonRPC wrapper for Multichain Its heavy based on python-bitcoinrpc but adapted for Multichain server, and replacing the httplib by requests`
 
 
