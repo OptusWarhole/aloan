@@ -26,7 +26,7 @@ Logs
 ----
 
 
-Useful Linkssvf
+Useful Links
 ----
 
 Resources
