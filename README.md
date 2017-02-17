@@ -1,5 +1,5 @@
 ALOAN
-====
+=====
 
 **ALOAN** is a experimental platform that allows student to check if they are eligible for student loans.
 It uses MultiChain in order to send the data without third party.
