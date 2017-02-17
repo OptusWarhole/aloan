@@ -1,5 +1,5 @@
 ALOAN
-=====
+====
 
 **ALOAN** is a experimental platform that allows student to check if they are eligible for student loans.
 It uses MultiChain in order to send the data without third party.
@@ -10,11 +10,15 @@ This project has been made by *Marvin A.*, *Sophie N.* and *Virgile G*, three **
 ----
 
 **Multichain** is an open source private blockchain platform, backwards compatible with bitcoin and Bitcoin Core.
-![Screenshot of **MultiChain's Explorer**](https://labs.kunstmaan.be/uploads/cache/image_big_png/uploads/media/56d5967860ccb/screenshot-2016-03-01-141701.png?production-14bed6c)
+![Screenshot of **MultiChain's Explorer**](http://www.multichain.com/img/multichain-temp-logo-248x48.png)
+
 
 *[Github](https://github.com/MultiChain)*
 
 *[Savoir](https://github.com/DXMarkets/Savoir)*
+
+*[Multichain - Explorer](https://github.com/MultiChain/multichain-explorer)*
+![Screenshot of **MultiChain's Explorer**](https://labs.kunstmaan.be/uploads/cache/image_big_png/uploads/media/56d5967860ccb/screenshot-2016-03-01-141701.png?production-14bed6c)
 
 
 **Resources**
