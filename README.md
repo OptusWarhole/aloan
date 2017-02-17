@@ -1,10 +1,10 @@
 ALOAN
 ====
 
-**ALOAN** is a experimental platform that allows student to check if they are eligible for student loans.
+**ALOAN** is an experimental platform that allows student to check if they are eligible for student loans.
 It uses MultiChain in order to send the data without third party.
 
-This project has been made by *Marvin A.*, *Sophie N.* and *Virgile G*, three **ETNA**'s students. The goal of the exercice was to use Bloch Chain and understant its
+This project has been made by *Marvin A.*, *Sophie N.* and *Virgile G*, three **ETNA**'s students. The goal of the exercice was to use Bloch Chain and to understand it.
 
 **[Multichain](http://www.multichain.com/)**
 ----
